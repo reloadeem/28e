@@ -1,8 +1,0 @@
-{
-"account_sid":"ACeffa6810dcab4e1ef525101065684138", 
-"auth_token":"54ccf721e3317a49c1849dca71f49c58", 
-"Twilio Phone Number":"+13613493661", 
-"ngrok_url":"https://0881-196-157-33-184.ngrok-free.app", 
-"server_id":"1134678257946603571", 
-"bot_token":"MTEzNDY3OTY1ODE1MjA3NTMxNQ.GpM78F.Zh-JFSsZvFOEyhd0rni29XsxSD3hqqOTxWTeRk"
-}
